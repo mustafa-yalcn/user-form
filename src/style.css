@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+
+  background: linear-gradient(
+    225deg,
+    rgb(44, 10, 215) 0%,
+    rgb(46, 28, 255) 14.286%,
+    rgb(52, 30, 207) 28.571%,
+    rgb(93, 85, 188) 42.857%,
+    rgb(173, 170, 214) 57.143%,
+    rgb(83, 44, 223) 71.429%,
+    rgb(123, 120, 206) 85.714%,
+    rgb(32, 0, 238) 100%
+  );
+}
